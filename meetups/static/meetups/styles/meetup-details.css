@@ -86,3 +86,9 @@ article {
     margin-bottom: 0.5rem;
     color: #880824;
   }
+
+  .sorry-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
